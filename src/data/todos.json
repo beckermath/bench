@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Learn HTML",
+    "completed": false
+  },
+  {
+    "title": "Learn JavaScript",
+    "completed": false
+  },
+  {
+    "title": "Learn Vue",
+    "completed": false
+  }
+]
