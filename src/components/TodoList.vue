@@ -31,7 +31,9 @@ export default {
 <template>
   <h2>Todo List!</h2>
   <span>
-    <input v-model="newTodoTitle" /><button @click="addTodo">
+    <input class="border" v-model="newTodoTitle" /><button
+      @click="addTodo"
+    >
       Add Todo
     </button>
     <input type="checkbox" v-model="filtered" />
